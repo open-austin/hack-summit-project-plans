@@ -1,5 +1,7 @@
 # Council Connect
 
+The most current information on this project is contained here: https://docs.google.com/spreadsheets/d/1pdDYiDU78siJqKP25ej04fEn0qV3x9hfrVLSNDNbVXg/edit#gid=0
+
 ## Problem Statement
 - There is a problem with Austin residents having access to information about council items that affect their district.
 
